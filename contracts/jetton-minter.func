@@ -1,9 +1,9 @@
-#include "stdlib.func";
-#include "jetton-utils.func";
-#include "error-codes.func";
-#include "op-codes.func";
-#include "params.func";
-#include "messages.func";
+#include "imports/stdlib.func";
+#include "imports/jetton-utils.func";
+#include "imports/error-codes.func";
+#include "imports/op-codes.func";
+#include "imports/params.func";
+#include "imports/messages.func";
 
 ;; Jettons discoverable smart contract
 
